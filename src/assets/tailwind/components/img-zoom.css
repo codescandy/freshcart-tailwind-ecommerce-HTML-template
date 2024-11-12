@@ -1,0 +1,28 @@
+/* Image Zoom */
+
+.img-zoom {
+	border-radius: 0.5rem;
+	overflow: hidden;
+}
+.img-zoom img {
+	transition: transform 0.5s ease;
+}
+.img-zoom img:hover {
+	transform: scale(1.1);
+}
+div.zoom {
+	background-position: 50% 50%;
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	cursor: zoom-in;
+	border-radius: 0.5rem;
+}
+div.zoom img:hover {
+	opacity: 0;
+}
+div.zoom img {
+	transition: opacity 0.5s;
+	display: block;
+	width: 100%;
+}

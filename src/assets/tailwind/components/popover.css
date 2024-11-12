@@ -1,0 +1,156 @@
+/* --- Poppover ---- */
+
+.popover {
+	z-index: 1070;
+	display: block;
+	max-width: 276px;
+
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.6;
+
+	word-break: normal;
+	white-space: normal;
+	word-spacing: normal;
+	line-break: auto;
+
+	word-wrap: break-word;
+	background-color: white;
+	background-clip: padding-box;
+	border: 1px solid #dfe2e1;
+	border-radius: 0.5rem;
+}
+.popover .popover-arrow {
+	display: block;
+	width: 1rem;
+	height: 0.5rem;
+}
+.popover .popover-arrow::before,
+.popover .popover-arrow::after {
+	position: absolute;
+	display: block;
+	content: '';
+	border-color: transparent;
+	border-style: solid;
+	border-width: 0;
+}
+
+.bs-popover-top > .popover-arrow,
+.bs-popover-auto[data-popper-placement^='top'] > .popover-arrow {
+	bottom: -14px;
+}
+.bs-popover-top > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='top'] > .popover-arrow::before,
+.bs-popover-top > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='top'] > .popover-arrow::after {
+	border-width: 0.45rem;
+}
+.bs-popover-top > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='top'] > .popover-arrow::before {
+	bottom: 0;
+	border-top-color: #dfe2e1;
+}
+.bs-popover-top > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='top'] > .popover-arrow::after {
+	bottom: 1px;
+	border-top-color: white;
+}
+
+/* rtl:begin:ignore */
+.bs-popover-end > .popover-arrow,
+.bs-popover-auto[data-popper-placement^='right'] > .popover-arrow {
+	left: -0.7rem;
+	width: 0.5rem;
+	height: 1rem;
+}
+.bs-popover-end > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='right'] > .popover-arrow::before,
+.bs-popover-end > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='right'] > .popover-arrow::after {
+	border-width: 0.35rem;
+}
+.bs-popover-end > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='right'] > .popover-arrow::before {
+	left: 0px;
+	border-right-color: #dfe2e1;
+}
+.bs-popover-end > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='right'] > .popover-arrow::after {
+	left: 1px;
+	border-right-color: white;
+}
+
+/* rtl:end:ignore */
+.bs-popover-bottom > .popover-arrow,
+.bs-popover-auto[data-popper-placement^='bottom'] > .popover-arrow {
+	top: -14px;
+}
+.bs-popover-bottom > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='bottom'] > .popover-arrow::before,
+.bs-popover-bottom > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='bottom'] > .popover-arrow::after {
+	border-width: 0.45rem;
+}
+.bs-popover-bottom > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='bottom'] > .popover-arrow::before {
+	top: 0;
+	border-bottom-color: #dfe2e1;
+}
+.bs-popover-bottom > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='bottom'] > .popover-arrow::after {
+	top: 1px;
+	border-bottom-color: white;
+}
+.bs-popover-bottom .popover-header::before,
+.bs-popover-auto[data-popper-placement^='bottom'] .popover-header::before {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	display: block;
+	width: var(1rem);
+	margin-left: calc(-0.5 * var(1rem));
+	content: '';
+	border-bottom: var(1rem) solid var(--fc-popover-header-bg);
+}
+
+/* rtl:begin:ignore */
+.bs-popover-start > .popover-arrow,
+.bs-popover-auto[data-popper-placement^='left'] > .popover-arrow {
+	right: -0.9rem;
+	width: 0.5rem;
+	height: 1rem;
+}
+.bs-popover-start > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='left'] > .popover-arrow::before,
+.bs-popover-start > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='left'] > .popover-arrow::after {
+	border-width: 0.45rem;
+}
+.bs-popover-start > .popover-arrow::before,
+.bs-popover-auto[data-popper-placement^='left'] > .popover-arrow::before {
+	right: 0;
+	border-left-color: #dfe2e1;
+}
+.bs-popover-start > .popover-arrow::after,
+.bs-popover-auto[data-popper-placement^='left'] > .popover-arrow::after {
+	right: 1px;
+	border-left-color: white;
+}
+
+/* rtl:end:ignore */
+.popover-header {
+	padding: 0.5rem 1rem;
+	font-size: 0.875rem;
+
+	background-color: #f0f3f2;
+	border-bottom: 1px solid #dfe2e1;
+	border-top-left-radius: var(--fc-popover-inner-border-radius);
+	border-top-right-radius: var(--fc-popover-inner-border-radius);
+}
+.popover-header:empty {
+	display: none;
+}
+
+.popover-body {
+	padding: 1rem;
+}

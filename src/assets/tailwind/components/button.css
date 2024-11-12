@@ -1,0 +1,36 @@
+/* --- validation Button ---- */
+
+.was-validated .form-control:invalid + span .passwordToggler,
+.form-control.is-invalid + span .passwordToggler {
+	right: 37px !important;
+	top: 33% !important;
+}
+.was-validated .form-control:valid + span .passwordToggler,
+.form-control.is-valid + span .passwordToggler {
+	right: 40px;
+}
+.passwordToggler {
+	position: absolute;
+	right: 20px;
+	top: 50%;
+	transform: translateY(-50%);
+	cursor: pointer;
+	font-size: 16px;
+	color: #21313c;
+	line-height: 1;
+}
+.was-validated .form-check-input:valid ~ .form-check-label,
+.was-validated .form-check-input.is-valid ~ .form-check-label {
+	color: inherit;
+}
+.was-validated :valid:not(:required):not(.btn),
+.is-valid:not(:required):not(.btn) {
+	border-color: #dfe2e1 !important;
+	background-image: none;
+}
+
+.btn-check {
+	clip: rect(0, 0, 0, 0);
+	pointer-events: none;
+	position: absolute;
+}

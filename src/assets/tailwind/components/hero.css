@@ -1,0 +1,20 @@
+/* hero */
+
+.hero-slider {
+	position: relative;
+}
+.hero-slider .slick-slide {
+	margin-right: 0rem !important;
+}
+.hero-slider .slick-dots {
+	position: absolute;
+	bottom: 24px;
+	display: block;
+}
+.hero-slider .slick-dots li {
+	margin: 0rem;
+}
+.hero-slider .slick-dots li button::before {
+	font-size: 0.5rem;
+	color: #21313c;
+}

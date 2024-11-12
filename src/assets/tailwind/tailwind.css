@@ -1,0 +1,69 @@
+/* tailwind css */
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* headings, body */
+
+@layer base {
+	h1 {
+		@apply text-3xl text-gray-800 font-semibold;
+	}
+	h2 {
+		@apply text-2xl text-gray-800 font-semibold;
+	}
+	h3 {
+		@apply text-xl text-gray-800 font-semibold;
+	}
+	h4 {
+		@apply text-lg text-gray-800 font-semibold;
+	}
+	h5 {
+		@apply text-md text-gray-800 font-semibold;
+	}
+	h6 {
+		@apply text-base text-gray-800 font-semibold;
+	}
+	body {
+		@apply text-base text-gray-600 font-medium antialiased;
+	}
+
+	input::placeholder {
+		@apply text-base text-gray-600;
+	}
+}
+
+/* btn, card */
+
+@layer components {
+	.btn {
+		@apply leading-normal inline-flex items-center justify-center bg-transparent border border-transparent rounded-lg text-white cursor-pointer text-base font-semibold py-[0.55rem] px-4 text-center transition align-middle select-none;
+	}
+	.btn-sm {
+		@apply py-1 px-3 text-sm rounded-md;
+	}
+	.btn-lg {
+		@apply py-2 px-6 text-md rounded-md;
+	}
+	.card {
+		@apply bg-white relative flex flex-col min-w-0 break-words rounded-lg border border-gray-300;
+	}
+	.card-body {
+		@apply flex-auto p-6;
+	}
+}
+
+small,
+.small {
+	font-size: 0.75rem;
+}
+
+.text-inherit {
+	@apply text-gray-800;
+}
+.text-inherit:hover {
+	@apply text-green-600;
+}

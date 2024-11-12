@@ -1,0 +1,109 @@
+/* Form */
+
+/* input group */
+
+.input-group {
+	position: relative;
+	width: 6.5rem;
+	border: 1px solid #dfe2e1;
+	height: 2rem;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* form */
+
+.form-control.is-invalid,
+.was-validated .form-control:invalid {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23db3030'%3E%3Ccircle cx='6' cy='6' r='4.5'/%3E%3Cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3E%3Ccircle cx='6' cy='8.2' r='.6' fill='%23db3030' stroke='none'/%3E%3C/svg%3E");
+	background-position: right calc(0.4em + 0.275rem) center;
+	background-repeat: no-repeat;
+	background-size: calc(0.8em + 0.55rem) calc(0.8em + 0.55rem);
+	@apply border-red-600;
+	padding-right: calc(1.6em + 1.1rem);
+}
+.invalid-feedback {
+	@apply text-red-600;
+	display: none;
+	font-size: 0.875em;
+	margin-top: 0.25rem;
+	width: 100%;
+}
+.is-invalid ~ .invalid-feedback,
+.is-invalid ~ .invalid-tooltip,
+.was-validated :invalid ~ .invalid-feedback,
+.was-validated :invalid ~ .invalid-tooltip {
+	display: block;
+}
+
+.form-control.is-invalid + span .passwordToggler,
+.was-validated .form-control:invalid + span .passwordToggler {
+	right: 37px !important;
+	top: 33% !important;
+}
+
+/* password */
+
+.passwordToggler {
+	position: absolute;
+	right: 20px;
+	top: 50%;
+	transform: translateY(-50%);
+	cursor: pointer;
+	font-size: 16px;
+	@apply text-gray-800;
+	line-height: 1;
+}
+
+.input-phone {
+	position: relative;
+}
+.input-phone input {
+	box-sizing: border-box;
+	font-size: 14px;
+	padding-left: 72px;
+	width: 100%;
+}
+.input-phone:before {
+	content: '\ea8a';
+	font-family: tabler-icons !important;
+	font-style: normal;
+	@apply text-gray-600;
+	font-size: 18px;
+	left: 12px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.input-phone::after {
+	@apply text-gray-600;
+	content: '+91 - ';
+	font-size: 14px;
+	left: 36px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+/* -- file upload -- */
+.file-upload {
+	position: relative;
+	overflow: hidden;
+}
+
+.file-upload input.file-input {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity = 0);
+	height: 100%;
+}

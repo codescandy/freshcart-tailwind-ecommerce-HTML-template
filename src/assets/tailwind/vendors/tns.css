@@ -1,0 +1,28 @@
+/* --- Tns Slider ---- */
+
+.product-tools {
+	position: relative;
+}
+.product-tools .thumbnails {
+	margin: 10px 0;
+	text-align: center;
+}
+.product-tools img {
+	border-radius: 6px;
+	max-width: 100%;
+}
+
+.product .tns-item img {
+	border-radius: 6px;
+	width: 100%;
+}
+
+.thumbnails li img {
+	height: auto;
+}
+.thumbnails .tns-nav-active .thumbnails-img {
+	background: none;
+	border: 2px solid;
+	@apply border-green-600;
+	border-radius: 0.5rem;
+}
