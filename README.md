@@ -125,3 +125,18 @@ At present, we officially aim to support the last two versions of the following 
 ## Technical Support or Questions
 
 If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
+
+## Figma Design File
+
+Ready to use [Figma File]().
+
+## Upgrade to PRO
+
+Get more power with [Dash UI pro](https://dashui.codescandy.com/) featuring bunch of UI components, forms, tables, charts, pages, and icons.
+
+| Free Version | [DashUI PRO]   |
+| ------------ | -------------- |
+| 1 Demo Pages | 60+ pages      |
+| -            | Includine Docs |
+
+| Libraries & Plugins
