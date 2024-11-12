@@ -138,5 +138,4 @@ Get more power with [Dash UI pro](https://dashui.codescandy.com/) featuring bunc
 | ------------ | -------------- |
 | 1 Demo Pages | 60+ pages      |
 | -            | Includine Docs |
-
 | Libraries & Plugins
