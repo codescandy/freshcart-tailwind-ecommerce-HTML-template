@@ -21,10 +21,8 @@ The steps to compile and get started with development are covered in detail in d
 
 Codescandy is happy to provide support for issues. Contact us an email at hello@codescandy.com
 
-# [freshcart-tailwind-ecommerce-HTML-template](https://dashui.codescandy.com/) [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fcodescandy%2FDash-UI)](https://twitter.com/intent/tweet?text=Dash%20-%20UI%20Bootstrap%205%20Theme&url=https%3A%2F%2Fgithub.com%2Fcodescandy%2FDash-UI&via=getcodescandy)
-
 <a href="https://dashui.codescandy.com/">
- <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/hero-img.jpg" alt="Dash UI Bootstrap 5 Theme"/>
+ <img src="https://freshcart-tailwind.codescandy.com/assets/images/overview/landing-img-1.jpg" alt="Freshcart Tailwind Ecommerce HTML Template"/>
 </a>
  <br />
   <br />
@@ -58,13 +56,13 @@ This product is built using the following widely used technologies:
 npm install gulp-cli -g
 ```
 
-5. After installing Gulp, run npm install in the main `dash-ui/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
+5. After installing Gulp, run npm install in the main `freshcart-tailwind-ecommerce-HTML-template/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
 
 ```
 npm install
 ```
 
-6. Run gulp in the `dash-ui/` folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
+6. Run gulp in the `freshcart-tailwind-ecommerce-HTML-template/` folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
 
 ```
 gulp
@@ -118,12 +116,12 @@ Free Freshcart Tailwind Ecommerce HTML Template
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/chrome.png" width="64" height="64">
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/firefox.png" width="64" height="64">
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/edge.png" width="64" height="64">
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/safari.png" width="64" height="64">
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/opera.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/chrome.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/firefox.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/edge.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/safari.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/opera.png" width="64" height="64">
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/). [Support](https://github.com/codescandy/Dash-UI/discussions)
+If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
