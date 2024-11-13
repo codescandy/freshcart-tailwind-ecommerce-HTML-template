@@ -116,23 +116,19 @@ Free Freshcart Tailwind Ecommerce HTML Template
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/chrome.png" width="64" height="64">
-<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/firefox.png" width="64" height="64">
-<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/edge.png" width="64" height="64">
-<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/safari.png" width="64" height="64">
-<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/opera.png" width="64" height="64">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/chrome.png" width="64" height="64" class="inline-block">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/firefox.png" width="64" height="64" class="inline-block">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/edge.png" width="64" height="64" class="inline-block">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/safari.png" width="64" height="64" class="inline-block">
+<img src="https://github.com/codescandy/freshcart-tailwind-ecommerce-HTML-template/blob/main/src/assets/images/marketing/opera.png" width="64" height="64" class="inline-block">
 
 ## Technical Support or Questions
 
 If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
 
-## Figma Design File
-
-Ready to use [Figma File]().
-
 ## Upgrade to PRO
 
-Get more power with [Dash UI pro](https://dashui.codescandy.com/) featuring bunch of UI components, forms, tables, charts, pages, and icons.
+Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://dashui.codescandy.com/) featuring bunch of Ecommerce UI components, forms, tables, charts, pages, and icons.
 
 | Free Version        | [DashUI PRO]                |
 | ------------------- | --------------------------- |
