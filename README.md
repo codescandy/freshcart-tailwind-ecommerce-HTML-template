@@ -127,11 +127,12 @@ If you have questions or need help integrating the product please [contact us](h
 Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://freshcart-tailwind.codescandy.com/overview.html) featuring bunch of Ecommerce UI components, forms, tables, charts, pages, and
 icons.
 
-| Free Version        | [Freshcart Tailwind PRO]                                                              |
-| ------------------- | ------------------------------------------------------------------------------------- |
-| 1 Demo Pages        | 60+ pages                                                                             |
-| -                   | Full source code                                                                      |
-| -                   | Documentation                                                                         |
-| -                   | Technical support - 6 Month                                                           |
-| -                   | Free updates                                                                          |
-| Libraries & Plugins | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4) |
+| Free Version           | [Freshcart Tailwind PRO]                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------- |
+| 1 Demo Pages           | 60+ pages                                                                             |
+| -                      | Full source code                                                                      |
+| -                      | Documentation                                                                         |
+| -                      | Technical support - 6 Month                                                           |
+| -                      | Free updates                                                                          |
+| 4+ Libraries & Plugins | 12+ Libraries & Plugins                                                               |
+| [Free]()               | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4) |
