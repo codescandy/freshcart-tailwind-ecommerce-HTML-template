@@ -1282,11 +1282,6 @@ input::placeholder {
        column-gap: 0.5rem;
 }
 
-.gap-x-6 {
-  -moz-column-gap: 1.5rem;
-       column-gap: 1.5rem;
-}
-
 .gap-y-4 {
   row-gap: 1rem;
 }
@@ -1518,10 +1513,6 @@ input::placeholder {
   padding-bottom: 2rem;
 }
 
-.pb-0 {
-  padding-bottom: 0px;
-}
-
 .pb-1 {
   padding-bottom: 0.25rem;
 }
@@ -1534,16 +1525,8 @@ input::placeholder {
   padding-bottom: 2rem;
 }
 
-.pl-3 {
-  padding-left: 0.75rem;
-}
-
 .pl-4 {
   padding-left: 1rem;
-}
-
-.pl-6 {
-  padding-left: 1.5rem;
 }
 
 .pr-4 {
@@ -1674,11 +1657,6 @@ input::placeholder {
 .text-gray-900 {
   --tw-text-opacity: 1;
   color: rgb(0 30 43 / var(--tw-text-opacity));
-}
-
-.text-green-500 {
-  --tw-text-opacity: 1;
-  color: rgb(22 208 18 / var(--tw-text-opacity));
 }
 
 .text-green-600 {
@@ -1978,10 +1956,6 @@ small,
     visibility: visible;
   }
 
-  .lg\:right-0 {
-    right: 0px;
-  }
-
   .lg\:my-14 {
     margin-top: 3.5rem;
     margin-bottom: 3.5rem;
@@ -2039,10 +2013,6 @@ small,
     flex-wrap: wrap;
   }
 
-  .lg\:flex-nowrap {
-    flex-wrap: nowrap;
-  }
-
   .lg\:items-center {
     align-items: center;
   }
@@ -2063,10 +2033,6 @@ small,
     --tw-space-x-reverse: 0;
     margin-right: calc(1.5rem * var(--tw-space-x-reverse));
     margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
-  }
-
-  .lg\:p-6 {
-    padding: 1.5rem;
   }
 
   .lg\:px-0 {
@@ -2100,10 +2066,6 @@ small,
   }
 }
 @media (min-width: 1280px) {
-
-  .xl\:right-auto {
-    right: auto;
-  }
 
   .xl\:grid {
     display: grid;
