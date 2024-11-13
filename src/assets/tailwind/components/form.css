@@ -88,22 +88,3 @@ input::-webkit-inner-spin-button {
 	top: 50%;
 	transform: translateY(-50%);
 }
-
-/* -- file upload -- */
-.file-upload {
-	position: relative;
-	overflow: hidden;
-}
-
-.file-upload input.file-input {
-	position: absolute;
-	top: 0;
-	right: 0;
-	margin: 0;
-	padding: 0;
-	font-size: 20px;
-	cursor: pointer;
-	opacity: 0;
-	filter: alpha(opacity = 0);
-	height: 100%;
-}
