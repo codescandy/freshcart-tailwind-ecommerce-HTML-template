@@ -1,4 +1,10 @@
-# freshcart-tailwind-ecommerce-HTML-template
+# Free Freshcart Tailwind Ecommerce HTML Template
+
+<a href="https://dashui.codescandy.com/">
+ <img src="https://freshcart-tailwind.codescandy.com/assets/images/overview/landing-img-1.jpg" alt="Freshcart Tailwind Ecommerce HTML Template"/>
+</a>
+ <br />
+  <br />
 
 Download Free Freshcart Tailwind Ecommerce HTML Template
 
@@ -20,12 +26,6 @@ The steps to compile and get started with development are covered in detail in d
 ### Support
 
 Codescandy is happy to provide support for issues. Contact us an email at hello@codescandy.com
-
-<a href="https://dashui.codescandy.com/">
- <img src="https://freshcart-tailwind.codescandy.com/assets/images/overview/landing-img-1.jpg" alt="Freshcart Tailwind Ecommerce HTML Template"/>
-</a>
- <br />
-  <br />
 
 Download Free Freshcart Tailwind Ecommerce HTML Template
 
@@ -134,8 +134,12 @@ Ready to use [Figma File]().
 
 Get more power with [Dash UI pro](https://dashui.codescandy.com/) featuring bunch of UI components, forms, tables, charts, pages, and icons.
 
-| Free Version | [DashUI PRO]   |
-| ------------ | -------------- |
-| 1 Demo Pages | 60+ pages      |
-| -            | Includine Docs |
-| Libraries & Plugins
+| Free Version        | [DashUI PRO]                |
+| ------------------- | --------------------------- |
+| 1 Demo Pages        | 60+ pages                   |
+| -                   | Includine Docs              |
+| -                   | Full source code            |
+| -                   | Documentation               |
+| -                   | Technical support - 6 Month |
+| -                   | Free updates                |
+| Libraries & Plugins | -                           |
