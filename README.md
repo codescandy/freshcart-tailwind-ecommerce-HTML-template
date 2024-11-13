@@ -1,6 +1,6 @@
 # Free Freshcart Tailwind Ecommerce HTML Template
 
-<a href="https://dashui.codescandy.com/">
+<a href="https://freshcart-tailwind.codescandy.com/overview.html">
  <img src="https://freshcart-tailwind.codescandy.com/assets/images/overview/landing-img-1.jpg" alt="Freshcart Tailwind Ecommerce HTML Template"/>
 </a>
  <br />
@@ -74,10 +74,6 @@ gulp
 gulp build
 ```
 
-## Documentation
-
-The documentation for Dash UI is provide on our [website](https://codescandy.com/dashui/docs/gulp.html).
-
 ## File Structure
 
 Within the download you'll find the following directories and files:
@@ -128,14 +124,14 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Upgrade to PRO
 
-Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://dashui.codescandy.com/) featuring bunch of Ecommerce UI components, forms, tables, charts, pages, and icons.
+Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://freshcart-tailwind.codescandy.com/overview.html) featuring bunch of Ecommerce UI components, forms, tables, charts, pages, and
+icons.
 
-| Free Version        | [DashUI PRO]                |
-| ------------------- | --------------------------- |
-| 1 Demo Pages        | 60+ pages                   |
-| -                   | Includine Docs              |
-| -                   | Full source code            |
-| -                   | Documentation               |
-| -                   | Technical support - 6 Month |
-| -                   | Free updates                |
-| Libraries & Plugins | -                           |
+| Free Version        | [Freshcart Tailwind PRO]                                                              |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| 1 Demo Pages        | 60+ pages                                                                             |
+| -                   | Full source code                                                                      |
+| -                   | Documentation                                                                         |
+| -                   | Technical support - 6 Month                                                           |
+| -                   | Free updates                                                                          |
+| Libraries & Plugins | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4) |
