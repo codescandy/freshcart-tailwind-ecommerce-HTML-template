@@ -123,12 +123,15 @@ If you have questions or need help integrating the product please [contact us](h
 Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://freshcart-tailwind.codescandy.com/overview.html) featuring a bunch of E-commerce UI components, forms, tables, charts, pages, and
 icons.
 
-| Free Version           | [Freshcart Tailwind PRO]                                                              |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| 1 Demo Pages           | 60+ pages                                                                             |
-| -                      | Full source code                                                                      |
-| -                      | Documentation                                                                         |
-| -                      | Technical support - 6 Month                                                           |
-| -                      | Free updates                                                                          |
-| 4+ Libraries & Plugins | 12+ Libraries & Plugins                                                               |
-| [Free](https://freshcart-tailwind.codescandy.com/freshcart-tailwind-free/)               | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4) |
+
+
+| Free Version                                                                                  | DashUI PRO                                                                                |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ✔️ 1 Demo Pages                                                                               | ✔️ 1 Dashboard                                                                            |
+| -                                                                                              | ✔️ 60+ HTML pages                                                                         |
+| -                                                                                              | ✔️ Documentation                                                                          |
+| -                                                                                              | ✔️ Source Files                                                                            |
+| -                                                                                              | ✔️ Priority Support                                                                            |
+| -                                                                                              | ✔️ Free Update                                                                        |
+| 4+ Libraries & Plugins                                                                         | ✔️ 10+ Plugins                                                                           |
+| [Free Download](https://freshcart-tailwind.codescandy.com/freshcart-tailwind-free/) | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4)  |
