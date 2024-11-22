@@ -121,4 +121,4 @@ icons.
 | ❌ Priority Support                                                                                            | ✔️ Priority Support                                                                            |
 | ❌  Documentation                                                                            | ✔️  Documentation                                                                       |
 | ✔️ 4+ Libraries & Plugins                                                                         | ✔️ 10+ Plugins                                                                           |
-| [Free Download](https://codescandy.lemonsqueezy.com/buy/3097b72d-1d17-48e0-a3a8-55a983b4681c) | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4)  |
+| [Free Download](https://codescandy.lemonsqueezy.com/buy/3097b72d-1d17-48e0-a3a8-55a983b4681c) | [Buy now](https://codescandy.lemonsqueezy.com/buy/7b77d92f-acf6-4fdc-885b-00fa9a0786e4)  |
