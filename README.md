@@ -6,28 +6,15 @@
  <br />
   <br />
 
-Download Free Freshcart Tailwind Ecommerce HTML Template
+[Download](https://codescandy.lemonsqueezy.com/buy/3097b72d-1d17-48e0-a3a8-55a983b4681c) Free Freshcart Tailwind Ecommerce HTML Template
 
-FreshCart is a beautifully designed, expertly crafted components UI kit for building a high-quality website and web apps using web technologies — HTML, TailwindCSS, and JavaScript — with integrations of
+[FreshCart](https://freshcart-tailwind.codescandy.com/freshcart-tailwind-free/) is a beautifully designed, expertly crafted components UI kit for building a high-quality website and web apps using web technologies — HTML, TailwindCSS, and JavaScript — with integrations of
 the world’s most popular Bootstrap Javascript Plugins.
 
 ### Documentation
 
 Development documentation is available at `src/docs/index.html` (or `dist/docs/index.html` once you've compiled), or visit https://freshcart.codescandy.com/tailwindcss/docs/index.html.
 
-### Getting Started
-
-The steps to compile and get started with development are covered in detail in the documentation mentioned above, but the summary is:
-
-- npm install -g gulp-cli
-- npm install
-- gulp
-
-### Support
-
-Codescandy is happy to provide support for issues. Contact us by email at hello@codescandy.com
-
-Download Free Freshcart Tailwind Ecommerce HTML Template
 
 ## Workflow
 
@@ -123,12 +110,15 @@ If you have questions or need help integrating the product please [contact us](h
 Get more power with [Freshcart Tailwind Ecommerce HTML Template](https://freshcart-tailwind.codescandy.com/overview.html) featuring a bunch of E-commerce UI components, forms, tables, charts, pages, and
 icons.
 
-| Free Version           | [Freshcart Tailwind PRO]                                                              |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| 1 Demo Pages           | 60+ pages                                                                             |
-| -                      | Full source code                                                                      |
-| -                      | Documentation                                                                         |
-| -                      | Technical support - 6 Month                                                           |
-| -                      | Free updates                                                                          |
-| 4+ Libraries & Plugins | 12+ Libraries & Plugins                                                               |
-| [Free](https://freshcart-tailwind.codescandy.com/freshcart-tailwind-free/)               | [Buy now](https://codescandy.lemonsqueezy.com/buy/77d92f-acf6-4fdc-885b-00fa9a0786e4) |
+
+| Free Version                                                                                  | Freshcart PRO                                                                                |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ✔️ 1 Homepage                                                                               | ✔️ 5 Homepage                                                                      |
+| ❌ Dashboard                                                                               | ✔️ 1 Dashboard                                                                     |
+| ✔️ 1 HTML Page                                                                               | ✔️ 60+ HTML pages                                                                         |
+| ❌ Megamenu                                                                                             | ✔️ Megamenu                                                                          |
+| ✔️ Source Files                                                                                      | ✔️ Source Files                                                                            |
+| ❌ Priority Support                                                                                            | ✔️ Priority Support                                                                            |
+| ❌  Documentation                                                                            | ✔️  Documentation                                                                       |
+| ✔️ 4+ Libraries & Plugins                                                                         | ✔️ 10+ Plugins                                                                           |
+| [Free Download](https://codescandy.lemonsqueezy.com/buy/3097b72d-1d17-48e0-a3a8-55a983b4681c) | [Buy now](https://codescandy.lemonsqueezy.com/buy/7b77d92f-acf6-4fdc-885b-00fa9a0786e4)  |
